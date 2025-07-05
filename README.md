@@ -1,12 +1,41 @@
-# React + Vite
+# 💼 Ankit Kumar – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my work, skills, experience, and projects as a software engineer.
 
-Currently, two official plugins are available:
+🌐 Live URL: [https://ankit-thakur.info/](https://ankit-thakur.info/)  
+📂 Branch: `main`  
+🛠️ Built With: HTML | CSS | JavaScript | [React]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧑‍💻 About Me section
+- 📚 Projects showcase
+- 🛠️ Skills overview
+- 📞 Contact form
+- ☁️ Hosted on GitHub Pages with HTTPS support
+
+---
+
+## 📸 Screenshot
+
+_Add a screenshot or preview GIF of your portfolio homepage here_
+
+---
+
+## 🧾 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Connect With Me
+
+- 🔗 LinkedIn: [linkedin.com/in/ankit-kumar64](https://linkedin.com/in/ankit-kumar64)
+- 📧 Email: tankit5210@gmail.com
+- 🌐 Website: [ankit-thakur.info](https://ankit-thakur.info/)
+
+---
+
+> Built with ❤️ by Ankit Kumar
